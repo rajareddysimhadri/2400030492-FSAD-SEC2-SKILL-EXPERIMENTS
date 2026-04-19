@@ -15,7 +15,7 @@
       root
     </property>
     <property name="hibernate.connection.password">
-      Raja@123reddy@123
+      Raja@123
     </property>
     
     <!-- Hibernate properties -->
